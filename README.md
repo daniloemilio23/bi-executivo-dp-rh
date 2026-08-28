@@ -17,6 +17,28 @@ O objetivo é reduzir etapas manuais, melhorar a confiabilidade das informaçõe
 
 ---
 
+## 🖥️ Dashboard Preview
+
+### Visão Geral
+
+![Capa do BI Executivo](docs/imagens/01-capa-bi-executivo.png)
+
+### Horas Extras
+
+Painel de acompanhamento de horas extras, banco de horas e evolução diária do indicador.  
+Os dados exibidos nesta versão são demonstrativos e foram preparados exclusivamente para portfólio.
+
+![Dashboard de Horas Extras](docs/imagens/02-horas-extras-portfolio.png)
+
+### Turnover
+
+Visão executiva dos indicadores de desligamento, turnover por unidade e acompanhamento mensal.  
+Os dados exibidos nesta versão são demonstrativos e não representam informações reais da operação.
+
+![Dashboard de Turnover](docs/imagens/03-turnover-portfolio.png)
+
+---
+
 ## 📌 Indicadores contemplados
 
 O BI possui análises relacionadas a:
